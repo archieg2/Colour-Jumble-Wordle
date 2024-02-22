@@ -1,5 +1,6 @@
 table{
     margin: auto;
+    padding: 20px;
 }
 
 td{
@@ -11,5 +12,9 @@ td{
     
   }
 h1{
+    text-align: center;
+}
+div{
+    margin: auto;
     text-align: center;
 }
